@@ -1,0 +1,38 @@
+aside{
+	float: right;
+	max-width: 20%;	
+}
+
+aside, article,section {
+	box-sizing: border-box;
+	padding: 10px;	
+}
+
+
+article{
+	float:left;
+	max-width: 60%;
+}
+
+.flexi, section{
+	overflow: hidden;
+}
+
+img{
+	box-sizing: border-box;
+	max-width: 100%;
+}
+.buttones{
+	box-sizing: border-box;
+	float: right;
+}
+
+h2{
+	background-color:rgba(232, 232, 232,0.9);
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-bottom: 5px;
+}
+.back{
+	background-color:rgba(232, 232, 232,0.5);
+}
